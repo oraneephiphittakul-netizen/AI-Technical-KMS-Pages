@@ -1,26 +1,15 @@
+# AI Technical KMS — GitHub Pages Demo
 
-# AI Technical KMS
+เว็บไซต์สาธิตส่วนติดต่อผู้ใช้ของระบบจัดการองค์ความรู้และสืบค้นเอกสารทางเทคนิคด้วย AI
 
-ระบบจัดการองค์ความรู้และสืบค้นเอกสารทางเทคนิคด้วย AI
-
-## วัตถุประสงค์
-เพื่อรวบรวมและจัดหมวดหมู่เอกสารทางเทคนิค
-และสนับสนุนการค้นคืนข้อมูลให้สะดวกยิ่งขึ้น
-
-## ประเภทเอกสาร
-- ICT Specification
-- Datasheet
-- Catalog
-- Certificate
-- TOR
-- Manuals
-
-## เทคโนโลยี
-- HTML
-- CSS
-- JavaScript
-- PHP และ MySQL สำหรับระบบต้นฉบับที่ทำงานบนเซิร์ฟเวอร์
+## เผยแพร่ด้วย GitHub Pages
+1. อัปโหลดไฟล์และโฟลเดอร์ทั้งหมดในชุดนี้ไปยัง root ของ repository `AI-Technical-KMS-Pages`.
+2. ไปที่ Settings → Pages.
+3. เลือก Deploy from a branch, branch `main`, folder `/ (root)` แล้ว Save.
+4. เปิด URL ของ GitHub Pages.
 
 ## ข้อจำกัด
-GitHub Pages ใช้เผยแพร่เว็บไซต์แบบ Static
-ไม่สามารถรัน PHP หรือเชื่อมต่อ MySQL โดยตรงได้
+GitHub Pages ให้บริการเว็บไซต์แบบ static เท่านั้น จึงไม่รัน PHP, ไม่เชื่อม MySQL/MariaDB, ไม่รองรับ PHP sessions และไม่ประมวลผล API ฝั่งเซิร์ฟเวอร์ หน้าอัปโหลดและ AI Assistant เป็นตัวอย่างสำหรับนำเสนอเท่านั้น ข้อมูลเอกสารเป็นข้อมูลสมมติ
+
+## ความปลอดภัย
+ชุดนี้ไม่รวมไฟล์ PHP, SQL, ไฟล์ PDF ของลูกค้า, รหัสผ่าน หรือไฟล์ตั้งค่าลับจากระบบ XAMPP ต้นฉบับ
