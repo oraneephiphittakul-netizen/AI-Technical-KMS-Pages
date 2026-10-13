@@ -1,2 +1,26 @@
-# AI-Technical-KMS-Pages
-AI Technical Knowledge Management System
+
+# AI Technical KMS
+
+ระบบจัดการองค์ความรู้และสืบค้นเอกสารทางเทคนิคด้วย AI
+
+## วัตถุประสงค์
+เพื่อรวบรวมและจัดหมวดหมู่เอกสารทางเทคนิค
+และสนับสนุนการค้นคืนข้อมูลให้สะดวกยิ่งขึ้น
+
+## ประเภทเอกสาร
+- ICT Specification
+- Datasheet
+- Catalog
+- Certificate
+- TOR
+- Manuals
+
+## เทคโนโลยี
+- HTML
+- CSS
+- JavaScript
+- PHP และ MySQL สำหรับระบบต้นฉบับที่ทำงานบนเซิร์ฟเวอร์
+
+## ข้อจำกัด
+GitHub Pages ใช้เผยแพร่เว็บไซต์แบบ Static
+ไม่สามารถรัน PHP หรือเชื่อมต่อ MySQL โดยตรงได้
